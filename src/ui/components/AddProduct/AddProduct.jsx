@@ -80,7 +80,7 @@ export const AddProduct = () => {
           <input
             type="url"
             name="imgUrl"
-            placeholder="set image adress(url)"
+            placeholder="Add image address(url)"
             value={newGood.imgUrl}
             className="add-new-product__input add-new-product__input--img-url"
             onChange={event => changeHandler(event.target)}
