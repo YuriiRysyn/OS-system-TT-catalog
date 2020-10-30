@@ -1,0 +1,39 @@
+.nav {
+  grid-area: nav;
+  justify-self: center;
+  
+  position: absolute;
+  top: -100%;
+  height: 100%;
+  transition: transform 0.3s linear;
+
+  &--active {
+    transform: translateY(100%);
+  }
+
+  &__list {
+    display: flex;
+  }
+
+  &__link {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80px;
+    padding: 0 30px;
+    color: #fff;
+    font-size: 20px;
+    text-transform: uppercase;
+    transition: all 0.5s linear;
+    
+    &:hover {
+      background-color: rgb(43, 167, 238);
+      color: rgb(235, 202, 15);
+    }
+
+    &--active {
+      color: rgb(235, 202, 15);
+    }
+  }
+}
+

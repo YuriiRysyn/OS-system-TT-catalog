@@ -1,0 +1,63 @@
+
+.presentation {
+  position: relative;
+  display: flex;
+  height: 600px;
+  width: 60%;
+  margin: 100px auto;
+
+  &__container-for-images {
+    width: 100%;
+    margin: 0 30px;
+  }
+
+  &__img {
+    height: 100%;
+    width: 100%;
+  }
+
+  &__btn {
+    align-self: center;
+    height: 100%;
+    width: 32px;
+    border: 1px solid #B4BDC4;
+    outline: none;
+    cursor: pointer;
+
+    &--prev-slide {
+      background: url(../../images/btn-left.svg) no-repeat center;
+
+      &:hover {
+        box-shadow: -1px -1px 5px;
+      }
+    }
+
+    &--next-slide {
+      background: url(../../images/btn-right.svg) no-repeat center;
+
+      &:hover {
+        box-shadow: 1px -1px 5px;
+      }
+    }
+  }
+
+  &__dots {
+    position: absolute;
+    bottom: -20px;
+    left: 45%;
+    cursor: pointer;
+    display: flex;
+  }
+
+  &__dot {
+    display: inline-block;
+    height: 5px;
+    width: 15px;
+    background-color: rgba(9, 16, 24, 0.24);
+    margin-left: 10px;
+
+    &--active {
+      background-color: rgb(9, 16, 24);
+    }
+  }
+}

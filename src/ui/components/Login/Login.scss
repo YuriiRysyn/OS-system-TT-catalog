@@ -1,0 +1,60 @@
+.users {
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  grid-template-rows: 30% auto 5% auto 5% 50%;
+  grid-template-areas:
+  "."
+  "a"
+  "."
+  "b"
+  "."
+  "c";
+  height: 100vh;
+  background: url('../../images/bg-img.jpg') no-repeat;
+  background-size: cover;
+  color: #fff;
+  font-weight: 600;
+
+  &__links {
+    grid-area: c;
+    align-self: start;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    min-width: 350px;
+  }
+
+  &__link {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    width: 150px;
+    color: #fff;
+    border: 2px solid rgba($color: #fff, $alpha: 0.5);
+    border-radius: 10px;
+    transition: all 0.5s linear;
+    font-size: 20px;
+    font-weight: 600;
+
+    &:hover {
+      background-color: #fff;
+      color: rgba(33, 121, 33, 0.692);
+    }
+  }
+
+  &__headling {
+    grid-area: a;
+    font-family: Grandstander;
+    justify-self: center;
+    font-size: 40px;
+  }
+
+  &__text {
+    grid-area: b;
+    justify-self: center;
+    font-family: Grandstander;
+    font-size: 30px;
+  }
+}

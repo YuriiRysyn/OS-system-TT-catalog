@@ -1,0 +1,51 @@
+[
+  {
+    "id": "1",
+    "title": "iPhone 12",
+    "description": "5G speed. A14 Bionic, the fastest chip in a smartphone. An edge-to-edge OLED display. Ceramic Shield with four times better drop performance. And Night mode on every camera. iPhone 12 has it all — in two perfect sizes.",
+    "price": "1200",
+    "imgUrl": "https://i2.rozetka.ua/goods/20299422/245162131_images_20299422206.jpg"
+  },
+  {
+    "id": "2",
+    "title": "iPhone 11",
+    "description": "The iPhone 11 succeeds the iPhone XR, and it features a 6.1-inch LCD display that Apple calls a Liquid Retina HD Display. It features a 1792 x 828 resolution at 326ppi, a 1400:1 contrast ratio, 625 nits max brightness, True Tone support for adjusting the white balance to the ambient lighting, and wide color support for true-to-life colors.",
+    "price": "1000",
+    "imgUrl": "https://i8.rozetka.ua/goods/14906658/copy_apple_iphone_11_128gb_black_5dc03b8991e0c_images_14906658859.jpg"
+  },
+  {
+    "id": "3",
+    "title": "iPhone SE(2020)",
+    "description": "Apple iPhone SE (2020) is a powerful yet pocket-sized iPhone. The new iPhone SE features an iPhone 8-style design with a 4.7-inch LCD display and Touch ID. The rear camera is a 12-megapixel one, while the selfie shooter is 7MP. The phone is powered by Apple's A13 Bionic chip.",
+    "price": "500",
+    "imgUrl": "https://i8.rozetka.ua/goods/17801797/apple_iphone_se_64gb_white_images_17801797603.png"
+  }, 
+  {
+    "id": "4",
+    "title": "Apple iPad Air 10.9",
+    "description": "With A14 Bionic, you have the power to bring your ideas to life. Shoot a 4K video, then edit it right on iPad Air. Use the second‑generation Apple Pencil to paint and illustrate with dynamic brushes and subtle shading.1 And with the enhanced graphics and machine learning performance of A14 Bionic, you can unlock new creative possibilities with photo editing, music creation, and more.",
+    "price": "720",
+    "imgUrl": "https://i2.rozetka.ua/goods/19911416/apple_myfq2rk_a_images_19911416149.jpg"
+  }, 
+  {
+    "id": "5",
+    "title": "Apple iPad mini 5 7.9",
+    "description": "iPad mini features a thin, light, and portable design that makes it the perfect on-the-go companion. At 0.66 pound and 6.1 mm thin,1 it’s easy to carry with you in one hand or take out of a pocket or bag whenever inspiration strikes.",
+    "price": "920",
+    "imgUrl": "https://i8.rozetka.ua/goods/17179335/apple_muxd2_images_17179335650.jpg"
+  }, 
+  {
+    "id": "6",
+    "title": "Apple Watch SE",
+    "description": "An expansive Retina display so you can see more at a glance. Advanced sensors to track all the ways you move. Powerful features to keep you healthy and safe. Apple Watch SE is a lot of watch for a lot less than you expected.",
+    "price": "320",
+    "imgUrl": "https://i2.rozetka.ua/goods/19910481/245162023_images_19910481361.jpg"
+  },  
+  {
+    "id": "7",
+    "title": "Apple Watch Series 6",
+    "description": "Measure your blood oxygen level with a revolutionary new sensor and app. Take an ECG anytime, anywhere. See your fitness metrics at a glance with the enhanced Always-On Retina display. With Apple Watch Series 6 on your wrist, a healthier, more active, more connected life is within reach.",
+    "price": "590",
+    "imgUrl": "https://i8.rozetka.ua/goods/19910476/apple_watch_series_6_gps_44mm_blue_aluminium_case_with_deep_navy_sport_band_images_19910476807.jpg"
+  }
+]
