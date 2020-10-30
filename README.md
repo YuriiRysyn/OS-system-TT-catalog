@@ -10,7 +10,7 @@
 - Redux
 - LocalStorage
 - WebPack
-- HTML/CSS(Grid, BEM, SASS)
+- HTML/CSS(Grid, BEM, SCSS)
 
 # My Contacts
 Yurii Rysyn
