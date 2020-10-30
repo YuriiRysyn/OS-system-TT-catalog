@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/OS-system-TT-catalog/static/css/main.eb07f277.chunk.css",
-    "main.js": "/OS-system-TT-catalog/static/js/main.f73eded4.chunk.js",
-    "main.js.map": "/OS-system-TT-catalog/static/js/main.f73eded4.chunk.js.map",
+    "main.js": "/OS-system-TT-catalog/static/js/main.b07ad8a3.chunk.js",
+    "main.js.map": "/OS-system-TT-catalog/static/js/main.b07ad8a3.chunk.js.map",
     "runtime-main.js": "/OS-system-TT-catalog/static/js/runtime-main.93aaf9e9.js",
     "runtime-main.js.map": "/OS-system-TT-catalog/static/js/runtime-main.93aaf9e9.js.map",
     "static/js/2.e2979081.chunk.js": "/OS-system-TT-catalog/static/js/2.e2979081.chunk.js",
     "static/js/2.e2979081.chunk.js.map": "/OS-system-TT-catalog/static/js/2.e2979081.chunk.js.map",
     "index.html": "/OS-system-TT-catalog/index.html",
-    "precache-manifest.8e1d1df3b432896c5e6a9b82c34f18f8.js": "/OS-system-TT-catalog/precache-manifest.8e1d1df3b432896c5e6a9b82c34f18f8.js",
+    "precache-manifest.47a1a63a5f76af4a164af0312f27c4a6.js": "/OS-system-TT-catalog/precache-manifest.47a1a63a5f76af4a164af0312f27c4a6.js",
     "service-worker.js": "/OS-system-TT-catalog/service-worker.js",
     "static/css/main.eb07f277.chunk.css.map": "/OS-system-TT-catalog/static/css/main.eb07f277.chunk.css.map",
     "static/js/2.e2979081.chunk.js.LICENSE.txt": "/OS-system-TT-catalog/static/js/2.e2979081.chunk.js.LICENSE.txt",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.93aaf9e9.js",
     "static/js/2.e2979081.chunk.js",
     "static/css/main.eb07f277.chunk.css",
-    "static/js/main.f73eded4.chunk.js"
+    "static/js/main.b07ad8a3.chunk.js"
   ]
 }
