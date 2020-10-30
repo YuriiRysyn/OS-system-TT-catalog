@@ -1,4 +1,4 @@
-# Cracker
+# Catalog
 [DEMO LINK](https://YuriiRysyn.github.io/OS-system-TT-catalog/)
 
 
