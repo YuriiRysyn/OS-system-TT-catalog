@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/OS-system-TT-catalog/static/css/main.eb07f277.chunk.css",
+    "main.js": "/OS-system-TT-catalog/static/js/main.f73eded4.chunk.js",
+    "main.js.map": "/OS-system-TT-catalog/static/js/main.f73eded4.chunk.js.map",
+    "runtime-main.js": "/OS-system-TT-catalog/static/js/runtime-main.93aaf9e9.js",
+    "runtime-main.js.map": "/OS-system-TT-catalog/static/js/runtime-main.93aaf9e9.js.map",
+    "static/js/2.e2979081.chunk.js": "/OS-system-TT-catalog/static/js/2.e2979081.chunk.js",
+    "static/js/2.e2979081.chunk.js.map": "/OS-system-TT-catalog/static/js/2.e2979081.chunk.js.map",
+    "index.html": "/OS-system-TT-catalog/index.html",
+    "precache-manifest.8e1d1df3b432896c5e6a9b82c34f18f8.js": "/OS-system-TT-catalog/precache-manifest.8e1d1df3b432896c5e6a9b82c34f18f8.js",
+    "service-worker.js": "/OS-system-TT-catalog/service-worker.js",
+    "static/css/main.eb07f277.chunk.css.map": "/OS-system-TT-catalog/static/css/main.eb07f277.chunk.css.map",
+    "static/js/2.e2979081.chunk.js.LICENSE.txt": "/OS-system-TT-catalog/static/js/2.e2979081.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/OS-system-TT-catalog/static/media/SharpSansNo2Semibold.c90f75b9.otf",
+    "static/media/Login.scss": "/OS-system-TT-catalog/static/media/bg-img.574923b9.jpg",
+    "static/media/Presentation.scss": "/OS-system-TT-catalog/static/media/btn-right.67be4a4a.svg",
+    "static/media/Header.scss": "/OS-system-TT-catalog/static/media/menu.541f6d0a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.93aaf9e9.js",
+    "static/js/2.e2979081.chunk.js",
+    "static/css/main.eb07f277.chunk.css",
+    "static/js/main.f73eded4.chunk.js"
+  ]
+}
